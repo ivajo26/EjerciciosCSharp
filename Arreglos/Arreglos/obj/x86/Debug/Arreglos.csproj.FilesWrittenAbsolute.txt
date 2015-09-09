@@ -1,0 +1,5 @@
+/home/ivajo26/Documents/Desarrollo De Software Libre/Arreglos/Arreglos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ivajo26/Documents/Desarrollo De Software Libre/Arreglos/Arreglos/bin/Debug/Arreglos.exe.mdb
+/home/ivajo26/Documents/Desarrollo De Software Libre/Arreglos/Arreglos/bin/Debug/Arreglos.exe
+/home/ivajo26/Documents/Desarrollo De Software Libre/Arreglos/Arreglos/obj/x86/Debug/Arreglos.exe
+/home/ivajo26/Documents/Desarrollo De Software Libre/Arreglos/Arreglos/obj/x86/Debug/Arreglos.exe.mdb

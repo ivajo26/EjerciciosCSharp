@@ -1,0 +1,5 @@
+/home/ivajo26/Documents/Desarrollo De Software Libre/Parametros/Parametros/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ivajo26/Documents/Desarrollo De Software Libre/Parametros/Parametros/bin/Debug/Parametros.exe.mdb
+/home/ivajo26/Documents/Desarrollo De Software Libre/Parametros/Parametros/bin/Debug/Parametros.exe
+/home/ivajo26/Documents/Desarrollo De Software Libre/Parametros/Parametros/obj/x86/Debug/Parametros.exe
+/home/ivajo26/Documents/Desarrollo De Software Libre/Parametros/Parametros/obj/x86/Debug/Parametros.exe.mdb
