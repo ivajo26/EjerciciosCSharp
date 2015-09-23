@@ -1,15 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Delegados2/TArreglo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegados2/Program.cs">
     <Files>
-      <File FileName="Delegados2/Program.cs" Line="44" Column="20" />
+      <File FileName="Delegados2/Program.cs" Line="12" Column="13" />
       <File FileName="Delegados2/TArreglo.cs" Line="34" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Delegados2" expanded="True">
-            <Node name="TArreglo.cs" selected="True" />
+            <Node name="Program.cs" selected="True" />
           </Node>
         </State>
       </Pad>
