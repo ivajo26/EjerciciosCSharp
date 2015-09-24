@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matriz/Program.cs">
+    <Files>
+      <File FileName="Matriz/Program.cs" Line="70" Column="5" />
+      <File FileName="Matriz/TMatriz.cs" Line="55" Column="4" />
+      <File FileName="Matriz/TMatriz1.cs" Line="18" Column="23" />
+      <File FileName="Matriz/TMatriz2.cs" Line="8" Column="23" />
+      <File FileName="Matriz/TMatriz3.cs" Line="19" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
