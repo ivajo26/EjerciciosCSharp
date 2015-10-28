@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Colecciones/TListaNot.cs">
+    <Files>
+      <File FileName="Colecciones/Program.cs" Line="1" Column="1" />
+      <File FileName="Colecciones/TNotas.cs" Line="53" Column="15" />
+      <File FileName="Colecciones/TListaNot.cs" Line="1" Column="1" />
+      <File FileName="Colecciones/MainWindow.cs" Line="7" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
