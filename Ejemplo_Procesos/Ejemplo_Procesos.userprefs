@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejemplo_Procesos/MainWindow.cs">
+    <Files>
+      <File FileName="Ejemplo_Procesos/Program.cs" Line="1" Column="1" />
+      <File FileName="Ejemplo_Procesos/MainWindow.cs" Line="25" Column="45" />
+      <File FileName="Ejemplo_Procesos/TProceso.cs" Line="35" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
