@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Directorios/MainWindow.cs">
+    <Files>
+      <File FileName="Directorios/Program.cs" Line="8" Column="25" />
+      <File FileName="Directorios/TDirectorio.cs" Line="69" Column="21" />
+      <File FileName="Directorios/MainWindow.cs" Line="117" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
