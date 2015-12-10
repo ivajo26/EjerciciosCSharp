@@ -1,0 +1,5 @@
+C:\Users\karen\Documents\Projects\Archivos_Texto\Archivos_Texto\obj\x86\Debug\Archivos_Texto.csprojResolveAssemblyReference.cache
+C:\Users\karen\Documents\Projects\Archivos_Texto\Archivos_Texto\bin\Debug\Archivos_Texto.exe
+C:\Users\karen\Documents\Projects\Archivos_Texto\Archivos_Texto\bin\Debug\Archivos_Texto.pdb
+C:\Users\karen\Documents\Projects\Archivos_Texto\Archivos_Texto\obj\x86\Debug\Archivos_Texto.exe
+C:\Users\karen\Documents\Projects\Archivos_Texto\Archivos_Texto\obj\x86\Debug\Archivos_Texto.pdb

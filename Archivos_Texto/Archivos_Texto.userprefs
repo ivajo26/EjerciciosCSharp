@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Archivos_Texto\Archivos_Texto.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Archivos_Texto\TLectura.cs">
+    <Files>
+      <File FileName="Archivos_Texto\Program.cs" Line="1" Column="1" />
+      <File FileName="Archivos_Texto\TEstudiante.cs" Line="73" Column="7" />
+      <File FileName="Archivos_Texto\TEscritura.cs" Line="21" Column="19" />
+      <File FileName="Archivos_Texto\TLectura.cs" Line="39" Column="17" />
+      <File FileName="Archivos_Texto\TEscEstudiante.cs" Line="26" Column="1" />
+      <File FileName="Archivos_Texto\TLecEstudiante.cs" Line="40" Column="1" />
+      <File FileName="Archivos_Texto\MainWindow.cs" Line="74" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
